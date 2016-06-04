@@ -5,7 +5,7 @@ public class ForDemo {
 	public static void main(String[] args) {
       int count;
       
-      for(count=0; count <5; count=count+1)
+      for(count=0; count <5; count=count+1) // or count++
       System.out.println("Thins is count: " + count);
       System.out.println("Done");
 		
